@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Cool Mint Plaid Shirt</string>
+		<key>description</key>
+		<string>Classy mixed with a hint casual makes you ready for any occasion.</string>
+		<key>imagePath</key>
+		<string>shirt1.png</string>
+		<key>price</key>
+		<string>$35.00</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crimson Cardigan</string>
+		<key>description</key>
+		<string>Get this soft cashmere cardigan and pair it with anything from a tee to a button down.</string>
+		<key>imagePath</key>
+		<string>shirt2.png</string>
+		<key>price</key>
+		<string>$35.00</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dark Red V-Neck Sweater</string>
+		<key>description</key>
+		<string>A trendy sweater. Light enough for a mildly chilly day or a hard day at work. Work hard, play hard.</string>
+		<key>imagePath</key>
+		<string>shirt3.png</string>
+		<key>price</key>
+		<string>$80.00</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Green V-Neck Sweater</string>
+		<key>description</key>
+		<string>A popular winter pick. Stay warm and look festive.</string>
+		<key>imagePath</key>
+		<string>shirt4.png</string>
+		<key>price</key>
+		<string>$80.00</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fancy Plaid Shirt</string>
+		<key>description</key>
+		<string>This isn&apos;t your old man&apos;s plaid. Get fancy and fashionable with our latest shirt.</string>
+		<key>imagePath</key>
+		<string>shirt5.png</string>
+		<key>price</key>
+		<string>$55.00</string>
+	</dict>
+</array>
+</plist>
